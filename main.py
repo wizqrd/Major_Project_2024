@@ -14,3 +14,5 @@ import requests  # This is used, so I don't have to add query requests at the en
 import yfinance as yf  #
 from bs4 import BeautifulSoup  #
 
+print('Heloo World')
+
